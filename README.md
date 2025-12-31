@@ -1,6 +1,6 @@
 # bloody-soup
 
-![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/lls4.png)
+![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/4.png)
 
 This repository is a host for my Blood Soup/MaferGames translations.
 
@@ -18,11 +18,11 @@ Please support Mafer using the link below!
 ![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/bs3.png)
 
 
+![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/1.png)
 ![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/2.png)
 ![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/3.png)
-![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/4.png)
 
 
-![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/lls1.png)
 ![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/lls2.png)
 ![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/lls3.png)
+![](https://github.com/megane-keithforeman/bloody-soup/blob/main/!SCREENS/lls4.png)
