@@ -2,7 +2,7 @@
 This repository is a host for my Blood Soup/MaferGames translations.
 
 To download, simply click on the green "Code" dropdown button, click "Download ZIP", and extract the files to a safe place on your computer.
-To extract the games themselves, double click on their icecube icons.
+To extract the games themselves, double click on their icecube icons. Please make sure they're extracted to the folders they're in.
 
 If there are any problems or bugs I've missed, feel free to leave an issue report in the "Issues" tab and I'll do my best to fix it.
 
